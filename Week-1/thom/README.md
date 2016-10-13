@@ -2,8 +2,8 @@
 > Write a programme to evaluate a string which would be entered into a calculator.
 
 ### Statistics
-- Lines: 1
-- Characters: 139
+- Lines: 2
+- Characters: 144
 
 ## Criteria
 * Code is still readable 👍
