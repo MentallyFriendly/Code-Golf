@@ -3,7 +3,7 @@
 
 ### Statistics
 - Lines: 2
-- Characters: 144
+- Characters: 134
 
 ## Criteria
 * Code is still readable 👍
