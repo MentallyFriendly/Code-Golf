@@ -10,7 +10,7 @@ task "run" do
   # Array to be flattened
   numbers = [10, 11, 5, [3, 8, 1, [12, 7, 18], 30, 10]]
 
-  # Call the app, passing the data as strings containing JSON
+  # Call the app, passing the number array to be flattened
   results = Flatten_Arrays.call(numbers)
 
   puts results
