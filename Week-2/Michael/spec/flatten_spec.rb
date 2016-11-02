@@ -31,4 +31,10 @@ describe Flatten_Arrays do
 
     expect(Flatten_Arrays.call(numbers)).to eq([1,"two",3,4,5,6,7,8.2,9])
   end
+
+  it 'should ignore empty, nested arrays' do
+    numbers = [1,2,[],3,[4,[]],[5]]
+
+    expect(Flatten_Arrays.call(numbers)).to eq([1,2,3,4,5])
+  end
 end
