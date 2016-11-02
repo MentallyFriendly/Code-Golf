@@ -1,3 +1,1 @@
-function f(a) {
-  return JSON.parse('['+a.toString().replace(/,?([^\d,.]+),?/g,',"$1",').replace(/,+/g, ',').replace(/^,/, '').replace(/,$/, '')+']')
-}
+var f=(a)=>{c=[];a.forEach((e)=>{(Array.isArray(e))?c=c.concat(f(e)):c.push(e)});return c}
