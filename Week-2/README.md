@@ -1,6 +1,6 @@
 # Week 2
 
-Create a function in your chosen language that takes an array of nested arrays and outputs a flattened array. You must not use any language feature that flattens an array for you. 
+Create a function in your chosen language that takes an array of nested arrays and outputs a flattened array. You must not use any language feature that flattens an array for you (i.e. array.flatten in ruby) or a library that does the job for you (i.e. underscore.js with flatten(array))
 
 Below is the array that we will be using to test your code: 
 
