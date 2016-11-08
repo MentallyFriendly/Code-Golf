@@ -1,5 +1,11 @@
 defmodule Flatten do
 
+  @moduledoc ~S"""
+  Functions associated with flattening a nested list
+
+  For a list of callable functions see Flatten.\_\_info\_\_(:functions)
+  """
+
   @doc """
   Flatten a nested list to a single level list.
 
