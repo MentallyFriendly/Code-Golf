@@ -15,3 +15,9 @@ Open the Elixir REPL
 iex> Flatten.list [1, [2, [3, [4]]]]
 [1, 2, 3, 4]
 ```
+
+Shorthand version:
+```
+iex> F.l [1, [2, [3, [4]]]]
+[1, 2, 3, 4]
+```
