@@ -15,23 +15,26 @@ fn isPrime(number) => boolean
 
 - The primary criteria is speed.
 Similar to golfing using characters in our previous challenges, we will be golfing speed of comupuation. Lower times to calculate are better here. The tests are provided below.
+All tests will be run on the same computer to reduce the number of possible factors which will have an affect on the outcome.
 
 - Elegance of code
 Readability are highly recommended as this code will be used for the follow up challenge.
 Clever tricks or other interesting uses of your chosen language's features will be viewed upon favourably.
 
-- *BONUS POINTS* - The largest prime known to man
-According to Wikipedia M74207281 is the largest prime number currently known to man. 
+- *BONUS POINT* - The largest prime known to man
+According to Wikipedia M74207281 is the largest prime number currently known to man. Bonus points to those that can return the correct result faster than the tech team meeting.
 
-### Example code
-
-#### Communicating Prime Numbers
+### Communicating Prime Numbers
 
 Prime numbers can be written as a [Mersenne prime](https://en.wikipedia.org/wiki/Mersenne_prime).
 
 ![screen shot 2016-11-21 at 2 45 51 pm](https://cloud.githubusercontent.com/assets/133069/20470085/5749a4ec-aff9-11e6-8071-9354212c992d.png)
 
 Due to the limitation of Github's Markdown, this will be written as Mnumber (e.g. M127) in all further cases.
+
+### Example code
+
+#### Generating a prime number
 
 ```javascript
 function generatePrime(num) {
@@ -68,3 +71,15 @@ isPrime(M31) => true
 isPrime(M31 + M17) => false
 
 isPrime(M22) => false
+
+
+As a base line, the following is a test on a MacBook Pro 2014. Time is in seconds.
+
+```
+> time node basic-sample.js
+true
+true
+false
+false
+       15.74 real        15.69 user         0.02 sys
+```
