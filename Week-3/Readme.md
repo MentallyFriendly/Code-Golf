@@ -53,7 +53,7 @@ function generatePrime(num) {
 
 #### Determining if a given number is a Prime Number
 
-Below is an starting point that can be used to determine if a number is a prime or not.
+Below is an starting point that can be used to determine if a number is a prime or not. This is not an optimal version.
 
 ```javascript
 function isPrime(num) {
@@ -73,6 +73,14 @@ function isPrime(num) {
 
 ### Tests
 
+isPrime(0) => false
+
+isPrime(1) => false
+
+isPrime(11) => true
+
+isPrime(24) => false
+
 isPrime(M17) => true
 
 isPrime(M31) => true
@@ -82,7 +90,7 @@ isPrime(M31 + M17) => false
 isPrime(M22) => false
 
 
-As a base line, the following is a test on a MacBook Pro 2014. Time is in seconds.
+As a base line, the following is a test on a single core of Sasha's MacBook Pro 2014. Time is in seconds.
 
 ```
 > time node basic-sample.js
