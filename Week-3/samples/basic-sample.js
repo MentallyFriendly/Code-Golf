@@ -17,6 +17,10 @@ function isPrime(num) {
 }
 
 
+console.log(0);
+console.log(1);
+console.log(11);
+console.log(24);
 console.log(isPrime(generatePrime(17)));
 console.log(isPrime(generatePrime(31)));
 console.log(isPrime(generatePrime(31) + generatePrime(17)));

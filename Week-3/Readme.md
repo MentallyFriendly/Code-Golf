@@ -73,9 +73,9 @@ function isPrime(num) {
 
 ### Tests
 
-isPrime(0) => false
+isPrime(0) => false // Note - This will fail in the example above
 
-isPrime(1) => false
+isPrime(1) => false // Note - This will fail in the example above
 
 isPrime(11) => true
 
