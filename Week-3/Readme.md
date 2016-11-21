@@ -24,6 +24,12 @@ Clever tricks or other interesting uses of your chosen language's features will 
 - *BONUS POINT* - The largest prime known to man
 According to Wikipedia M74207281 is the largest prime number currently known to man. Bonus points to those that can return the correct result faster than the tech team meeting.
 
+- Expected output
+Since we're primarily judging on speed reducing the number of dependencies is a good idea. For that reason simply outputting the result in plain text is all that is required.
+`true`, `false`, `0` and `1` are all acceptable output.
+Unit tests are not required in the final output (although it is recommended for development).
+
+
 ### List of prime numbers
 For a [list of prime numbers see the article on wikipedia](https://en.wikipedia.org/wiki/Largest_known_prime_number).
 
