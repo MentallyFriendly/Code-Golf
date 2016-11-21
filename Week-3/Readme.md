@@ -8,7 +8,7 @@ fn isPrime(number) => boolean
 
 ### Rules
 
-- Computation must be done by the system that is running the script.
+- Computation must be done by the system that is running the program(s).
 - Computation must be done in real time. The use of pregenerated numbers is not allowed. An example of this would be that a list of prime numbers or a list of numbers that aren't prime numbers are not permitted to be compared against.
 
 ### Judging criteria
