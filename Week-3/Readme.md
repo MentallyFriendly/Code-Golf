@@ -24,6 +24,9 @@ Clever tricks or other interesting uses of your chosen language's features will 
 - *BONUS POINT* - The largest prime known to man
 According to Wikipedia M74207281 is the largest prime number currently known to man. Bonus points to those that can return the correct result faster than the tech team meeting.
 
+### List of prime numbers
+For a [list of prime numbers see the article on wikipedia](https://en.wikipedia.org/wiki/Largest_known_prime_number).
+
 ### Communicating Prime Numbers
 
 Prime numbers can be written as a [Mersenne prime](https://en.wikipedia.org/wiki/Mersenne_prime).
