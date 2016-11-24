@@ -81,6 +81,8 @@ isPrime(11) => true
 
 isPrime(24) => false
 
+isPrime(1007) => false
+
 isPrime(M17) => true
 
 isPrime(M31) => true
