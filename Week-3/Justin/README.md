@@ -1,3 +1,3 @@
 ### To run
 
-```ruby codeGolf_primes.rb```
+```ruby isPrime.rb```
