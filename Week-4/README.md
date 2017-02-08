@@ -1,4 +1,4 @@
-# Code-golf challenge: 1st - 15th Feb '17 
+# Code-golf challenge: 22nd Feb '17 
 
 ## Fibonacci sequence
 
