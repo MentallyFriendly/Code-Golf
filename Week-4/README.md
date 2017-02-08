@@ -10,7 +10,7 @@ The program must return **true** if the number is a Fibonacci number, and **fals
 
 The program performance will be measured across a sample of sample of small, large and very large numbers.
 
-Testing will be on machine using the _time_ command.
+Testing will be on the same machine using the _time_ command.
 
 
 | **TRUE** numbers | **FALSE** numbers   |
