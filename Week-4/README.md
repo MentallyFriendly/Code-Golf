@@ -49,4 +49,5 @@ eight hundred sixty seven trillion ,
 two hundred fifty nine billion ,  
 nine hundred twenty eight million ,  
 nine hundred sixty five thousand ,  
-seven hundred fifty three
+seven hundred fifty three  
+credit http://www.webmath.com/saynum.html
