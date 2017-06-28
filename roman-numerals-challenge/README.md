@@ -18,7 +18,7 @@ Roman-numeral | Numerical value
 --- | ---
 VI | 4
 XII | 12
-XV1 | 16
+XVI | 16
 XXVIII | 28
 XL | 40
 XLI | 41
