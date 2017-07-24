@@ -16,7 +16,7 @@ Example values:
 
 Roman-numeral | Numerical value
 --- | ---
-VI | 4
+VI | 6
 XII | 12
 XVI | 16
 XXVIII | 28
