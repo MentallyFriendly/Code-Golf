@@ -2,7 +2,7 @@
 
 Converts a Roman numeral to an integer.
 
-~~201~~ ~~181~~ **168** characters minified.
+~~201~~ ~~181~~ ~~168~~ **167** characters minified.
 
 Run:
 ```sh
